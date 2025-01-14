@@ -1,0 +1,6 @@
+streamlit
+transformers
+sentence_transformers
+faiss
+PyPDF2
+docx

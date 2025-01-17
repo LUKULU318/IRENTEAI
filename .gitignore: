@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Local development
+.env
+.env.local
+.DS_Store
+
+# Model files
+*.pth
+*.pt
+*.bin
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/

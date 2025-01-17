@@ -1,0 +1,14 @@
+[
+    {
+        "text": "To reset your password, visit the login page and click 'Forgot Password'.",
+        "category": "account"
+    },
+    {
+        "text": "Our refund policy allows returns within 30 days of purchase.",
+        "category": "billing"
+    },
+    {
+        "text": "Premium support is available 24/7 through our help desk.",
+        "category": "support"
+    }
+]

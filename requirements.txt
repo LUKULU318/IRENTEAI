@@ -23,3 +23,4 @@ requests>=2.28.0
 # Optional but recommended
 pytest>=7.0.0  # for testing
 black>=22.0.0  # for code formatting# Core dependencies
+pip freeze > requirements.txt
